@@ -1,4 +1,4 @@
-set projectLocation=TestNgTestProject
+set projectLocation=C:\Users\rrajendrasansare\Downloads\TestNgTestProject
 cd %projectLocation%
 set classpath=%projectLocation%\bin;%projectLocation%\lib\*
 java org.testng.TestNG %projectLocation%\testng.xml
